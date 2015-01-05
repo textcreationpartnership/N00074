@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000119_0000_0FA02A34A16D1548"/>
-            <pb facs="tcp:000119_0001_0FA02A3549A09D68" rendition="simple:additions"/>
+            <pb facs="unknown:000119_0000_0FA02A34A16D1548"/>
+            <pb facs="unknown:000119_0001_0FA02A3549A09D68"
+                rendition="simple:additions"/>
             <p>THE RISE, SPRING AND FOUNDATION OF THE Anabaptists, Or <hi>RE-BAPTIZED</hi> of our Time.</p>
             <p>VVritten in <hi>French</hi> by <hi>Guy de Brez,</hi> 1565. Minister of the Word, and <hi>MARTYR.</hi>
             </p>
@@ -129,12 +130,12 @@ The thing that hath been, it is that which shall be; and that which is done, is 
             <p>CAMBRIDGE: Printed, and to be Sold by <hi>Marmaduke Johnson.</hi> 1668.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000119_0002_0FA02A399C7537A0"/>
+            <pb facs="unknown:000119_0002_0FA02A399C7537A0"/>
             <head>To the Reader.</head>
             <p>AS the reviving of this Root of Bitterness in the Quaker, after its being dead above an hundred years, caused the Translation and first Impression of this small Book under another Title; so the sprouting forth of its fruits of gall and wormwood, and the issuings from this corrupt fountain of those streams which make sad the City of God, have occasioned its second Im<g ref="char:EOLhyphen"/>pression, under the Name and Title put upon it by its Author <hi>Guy de Brez:</hi> whose <hi>praise in the Churches</hi> by his labo<g ref="char:EOLhyphen"/>rious planting, and faithful watering of them by his blood, is largely set forth in the famous Book of <hi>Martyrs,</hi> the third <hi>Volume,</hi> in <hi>the Continuation of the History by Dr.</hi> Ed<g ref="char:EOLhyphen"/>ward Bulkly, <hi>pag. 37, 38, 41, 42, 43.</hi> where he is described to be not onely an eminent Witness of Christs Truth unto the death, but his Labours, Prayers and Sufferings are there re<g ref="char:EOLhyphen"/>corded to posterity; his rejoycing in God, when hands and feet were so laden with Iron Chains, as they eat through his Flesh to the very bones; his glorying in their ratling, more then if they had been Chains of Gold; his fulness of God, when shut up in the Dungeon, which for its darkness was called <hi>Brunain,</hi> where he had no more air but at one little hole, where drunkards vented their urine; even then his heart leaped for joy, provoking his wife to comfort, in that God had not onely given her a Husband who was a Minister of Christs Gospel, but to be honoured with Martyrdome; <hi>A Dignity</hi> (said he) <hi>which the Angels of Heaven are not
 
 
-<pb facs="tcp:000119_0003_0FA02A3ADA017498"/>
+<pb facs="unknown:000119_0003_0FA02A3ADA017498"/>
 capable of.</hi> All which declare him a more then ordinary Man of God, and how worthy of credence these Relations by him held forth are. There also is mention made of this Book, he being <hi>engaged in an holy Conflict</hi> (as the Author calleth it) <hi>against the pestilent Sect of the Anabaptists, which as Cockle mingle themselves among the good Corn.</hi>
             </p>
             <p>This <hi>Translation</hi> is a small part of the Book; the rest is Doctrinal, and a solid Conviction of their Tenents: which whosoever shall intelligently reade, and compare his Rea<g ref="char:EOLhyphen"/>sons with those of our Worthies in these our dayes, he will finde that as <hi>Satan is the old Serpent,</hi> so <hi>Christ Jesus is the same yesterday, and to day, and for ever.</hi> A three<g ref="char:EOLhyphen"/>fold Character he giveth of them in his Epistle to his Book: <hi>1.</hi> That they multiplied quotations of Scripture against their true sense and meaning, to gain applause of the weak and unstable. <hi>2.</hi> That they gloried in their specious Holiness of Conversation. <hi>3.</hi> That they professed their readiness to suffer unto death. Of these he warneth Christs Flock scat<g ref="char:EOLhyphen"/>tered in <hi>Flanders, Brabant,</hi> &amp;c. being his own Country. If by any thing the faithful then might be preserved from the scandal which hereby is cast upon the Gospel, and that they might be provoked to a more affectionate inquiry, and cordiall closing with the truth of Faith, and Order of the Gospel; which as then was <hi>his,</hi> so now is the weak desire of <hi>him</hi> who is</p>
@@ -146,7 +147,7 @@ capable of.</hi> All which declare him a more then ordinary Man of God, and how 
       </front>
       <body>
          <div type="account">
-            <pb n="1" facs="tcp:000119_0004_0FA02A3C359485B0"/>
+            <pb n="1" facs="unknown:000119_0004_0FA02A3C359485B0"/>
             <head>The Rise, Spring and Foundation OF THE ANABAPTISTS.</head>
             <p>IN the year 1521 and the year insuing, there arose a certain number of mutinous and seditious persons, who secretly made Factions: they chiefly dwelt in the quarters of <hi>Saxony,</hi> which bordered upon the River <hi>Salah</hi>; among whom their chief was <hi>Nicholas Stork.</hi> They dreamed dreams, and said,<note place="margin">Nicholas Stork, <hi>and his accomplices, they preached dreams,</hi>
                </note> That they spake familiarly with God by Visions, they preached their dreams for truths and Divine Oracles; and because that there should come a <hi>new world, wherein should dwell righteousness:</hi> Therefore they ought to exterminate all the wicked, with all the Princes and unbe<g ref="char:EOLhyphen"/>lieving Magistrates,<note place="margin">
@@ -159,7 +160,7 @@ capable of.</hi> All which declare him a more then ordinary Man of God, and how 
 
 
 <pb n="2"
-                   facs="tcp:000119_0005_0FA02A3CAD488B68"
+                   facs="unknown:000119_0005_0FA02A3CAD488B68"
                    rendition="simple:additions"/>
 the Flock, or at least disgust some of the sheep against their Pastors; that so estranging them from them, they might undo them.</p>
             <p>Their Doctrine suddenly spread throughout all the Country, and in a little space they gathered much people after them,<note place="margin">
@@ -183,7 +184,7 @@ the Flock, or at least disgust some of the sheep against their Pastors; that so 
                <g ref="char:punc">▪</g> the <hi>Mortification of the Flesh,</hi> and <hi>Discipline</hi>: after that he had so fashioned his people, he said, That <hi>they must withdraw from the multitude, and conversation of men; and often to think upon God, who he is, and whether he hath care of us; whe<g ref="char:EOLhyphen"/>ther Christ suffered death for us, and whether our Religion were to be preferred before that of the Turks:</hi> moreover, <hi>that we ought to ask a sign from God, to be assured whether he hath care of us, and whether we owned the true Religion: if instantly he gave not a sign, that we ought to persist and pursue in prayers, yea, lively to complain of him, as of one that doth us wrong; for seeing the Scri<g ref="char:EOLhyphen"/>pture promises that God will grant what he is asked for, he doth not well in not giving a sign to the man who desireth his knowledge.</hi> He said, That <hi>this anger and reproach was very pleasing unto God, because that he thereby saw the inclination and heart of our spirit,
 
 
-<pb n="3" facs="tcp:000119_0006_0FA02A3D6B28EB70"/>
+<pb n="3" facs="unknown:000119_0006_0FA02A3D6B28EB70"/>
 and that without doubt being thus urged, he would declare himself by some evident sign, quenching the thirst of the spirit, and doing unto us as formerly unto the Fathers.</hi> He said moreover, That <hi>Gods will was declared by dreams, and there laid the foundations of his doctrine; insomuch that if the dream of any might be interpreted, he praised him greatly in his Sermons.</hi>
             </p>
             <p>After that by this means he had by little and little gained some, he discovered what he had long before plotted in the City of <hi>Alsted,</hi> which is in the Marches of <hi>Turing:</hi> He began to enroll the names of those that were entred into league with him, and by solemn Oath they promised assistance,<note place="margin">
@@ -232,7 +233,7 @@ and that without doubt being thus urged, he would declare himself by some eviden
                <hi>Muntzer</hi> furnished him<g ref="char:EOLhyphen"/>self; and for the future carried it not onely as a Preacher, but also as a Senator and Counsellor; for he said, that <hi>he must by
 
 
-<pb n="4" facs="tcp:000119_0007_0FA02A3E2D999D50"/>
+<pb n="4" facs="unknown:000119_0007_0FA02A3E2D999D50"/>
 his Divine Revelation judge of the Bible</hi>;<note place="margin">
                   <hi>Judges of the Bible.</hi>
                </note> and gave sentence up<g ref="char:EOLhyphen"/>on all according to his will and fancy; and all this was received as an Oracle and Divine answer: so were they befooled by him.<note place="margin">
@@ -259,14 +260,14 @@ his Divine Revelation judge of the Bible</hi>;<note place="margin">
 <q>That in a dream he had seen multitudes of Mice in a Stable, which he had made to fly: which he interpreted so as he had command from God to take up Arms, to set himself in array to discomfit the Nobility.</q>
             </p>
             <p>
-               <pb facs="tcp:000119_0008_0FA02A3EE3FF31D8"/>
+               <pb facs="unknown:000119_0008_0FA02A3EE3FF31D8"/>
                <hi>Muntzer</hi> was somewhat more cool; though he preached with great violence, yet he would not run any hazard untill that the Neighbourhood had taken up Arms: and the more easily to bring about his enterprize, he wrote unto the Labourers in the Mynes of the Territories of <hi>Mansfield,</hi> admonishing them to fall upon the Princes without any respect or consideration; for these that were ready in <hi>Francony</hi> drew near unto <hi>Turing.</hi> Thereupon <hi>Phifer,</hi> who could not forbear, took the field with his, and sack'd the Country about <hi>Isfield,</hi> pillaged the Fortres<g ref="char:EOLhyphen"/>ses and Temples (or Churches) and slew divers Gentlemen, taking others Prisoners: which having done, he returned laden with plunder; and having so well sped, the popularity were encouraged: in the mean time they skirmished and ra<g ref="char:EOLhyphen"/>vined in the Country of <hi>Mansfield</hi>; wherefore <hi>Muntzer</hi> thinking that there was a revolt in all parts, came forth from <hi>Mulhuze</hi> with 300 seditious men. Upon these stirs <hi>Albert</hi> Count of <hi>Mansfield</hi> at an instant assembled some Troops<g ref="char:punc">▪</g> of Horse, and fought <hi>Muntzer,</hi> so as 200 were left dead upon the place; the rest being astonished, withdrew, and fled toward <hi>Francuse,</hi> and sojourning there, waited for the recruit of their Army; which was the cause of retarding their stirs.</p>
             <p>In the mean time the Princes gathered together, to the num<g ref="char:EOLhyphen"/>ber of 1500 Horse, with some Foot: the Peasants being en<g ref="char:EOLhyphen"/>camped in a Mount near <hi>Francuse,</hi> they could not easily be as<g ref="char:EOLhyphen"/>sailed, by reason of the Carts they had furnished themselves withall. The poor people being unprovided either of Arms or Artillery, and for the most part not acquainted with Souldiery; the Princes being moved with compassion, admonished them by messages, that they would deliver up the Authors of this Sedition; and that laying down their arms, every one might with assurance, and without fear of punishment return unto their houses. <hi>Muntzer</hi> then fearing his skin, advanced into the midst of the Troops, and with a stern countenance made his Oration.</p>
             <q>
                <floatingText xml:lang="eng">
                   <body>
                      <div type="oration">
-                        <pb n="6" facs="tcp:000119_0009_0FA02A3FA784DDF8"/>
+                        <pb n="6" facs="unknown:000119_0009_0FA02A3FA784DDF8"/>
                         <p>You see, fellow-Souldiers and Brethren, how th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>se Tyrants near unto you have conjured to put you all to death,<note place="margin">Munt<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -327,7 +328,7 @@ his Divine Revelation judge of the Bible</hi>;<note place="margin">
                               </gap>rted them, saying,</hi> Be then couragious, and rid this great unprofitable troop out of the way; knowing that in so doing you shall fulfill the good pleasure of God. I perceive no means either of sure or safe composition; for they will never be otherwise minded; they neither will grant us our Liberties, nor the true Service of God. Wherefore we ought rather to dye, then to approve of their wickedness, or to let them snatch the Doctrine of the Gospel from us. In sum, I do assure you that God will help us, and that the day shall be ours; for he himself hath promised me it openly; he himself, I say, who can neither lye nor deceive, hath commanded me thus to proceed to punish the Magistrate. Behold, how Gods power appeareth! when<g ref="char:punc">▪</g>as a small handfull of people overcometh a great number; as for example, you know what <hi>Gideon</hi> did with his small company, and <hi>Jonathan</hi> with his Armour-bearer; what
 
 
-<pb n="7" facs="tcp:000119_0010_0FA02A4072F16D78"/>
+<pb n="7" facs="unknown:000119_0010_0FA02A4072F16D78"/>
                            <hi>David</hi> did alone against that monster <hi>Goliah</hi>: I put it out of doubt <gap reason="illegible" resp="#PDCC" extent="1 span">
                               <desc>〈…〉</desc>
                            </gap> shall be noted by the like Victory, and that posterity will alwayes have it in re<g ref="char:EOLhyphen"/>membrance; for though we be in bad equipage, not well furnished with Arms, and things needfull, we shall not fail to worst them; and this frame of heaven and earth will sooner fail, then we shall be forsaken of God. Take heed lest Reasons judgement make you shake, or the appearance of danger, that presents, make you <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -384,7 +385,7 @@ his Divine Revelation judge of the Bible</hi>;<note place="margin">
                            </note> and that yet he would neither excuse himself nor the other Princes from their faults. They cover themselves with the Name of the Gospel,
 
 
-<pb n="8" facs="tcp:000119_0011_0FA02A4129DAFB28"/>
+<pb n="8" facs="unknown:000119_0011_0FA02A4129DAFB28"/>
 but in truth they forge nothing but Thefts, Robberies, and the like mischiefs; their endeavour is to take from others, to abolish Magistracy, to offer violence to other mens wives and children, and to commit all Crimes without punishment: and see<g ref="char:EOLhyphen"/>ing under the fair and holy Name of God, they cloke such villanies, and execrable misdeeds, there was no doubt but God would avenge those injuries: wherefore every one ought to fight against them, as against Robbers, and so to maintain the Publick Peace, and to defend every ones Estate, with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ir Wives and Children. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -408,7 +409,7 @@ but in truth they forge nothing but Thefts, Robberies, and the like mischiefs; t
                </note> which were beheaded. <hi>Muntzer</hi> having gained the City by flight, hid himself in an house near unto the Gate; whither by accident there came a Gentleman, whose Waiting-man going up to see the rooms, he found a man laid upon the bed, who asked him who he was, and whether he was not fled from the Battel, and whether he was not one of the se<g ref="char:EOLhyphen"/>ditious? By accident there lay a Purse near unto the bed; the other taketh up the booty, and having opened it, he found therein Letters, whereby <hi>Albert</hi> of <hi>Mansfield</hi> did admonish <hi>Muntzer</hi> to desist from his enterprize, and not to cause the poor people to mutiny: these Letters when he had read, he asked him, <hi>if the Letters were not directed to him?</hi> which he denied very stifly, untill being sharply threatned, craving pardon, he con<g ref="char:EOLhyphen"/>fessed
 
 
-<pb n="9" facs="tcp:000119_0012_0FA02A41F04F0CD8"/>
+<pb n="9" facs="unknown:000119_0012_0FA02A41F04F0CD8"/>
 that he was <hi>Muntzer:</hi> being taken, he was brought be<g ref="char:EOLhyphen"/>fore <hi>George</hi> Duke of <hi>Saxony,</hi> and the <hi>Lantgrave</hi>;<note place="margin">Muntzer <hi>taken</hi>
                </note> being asked of them, what had moved him so to abuse the poor people? he replied, that he had done but his duty; and that those Magi<g ref="char:EOLhyphen"/>strates that would not receive the Gospel, were so to be dealt withall. The <hi>Lantgrave</hi> puzled him, proving by Testimony of Scripture, that the Magistrates ought to be had in reverence; and that all seditions were forbidden by God; and that it was not lawful for a Christian to avenge his private quarrel: where<g ref="char:EOLhyphen"/>unto <hi>Muntzer</hi> had not to answer. Afterwards he was put unto grievous torture; and as by greatness of the pain he cried out,<note place="margin">
                   <hi>Tortured.</hi>
@@ -420,7 +421,7 @@ that he was <hi>Muntzer:</hi> being taken, he was brought be<g ref="char:EOLhyph
                </note> who seeing their sedition profited them not, and that the Prophets were slain with their brethren
 
 
-<pb n="10" facs="tcp:000119_0013_0FA02A42ABBC2AC0"/>
+<pb n="10" facs="unknown:000119_0013_0FA02A42ABBC2AC0"/>
 and companions, instead of repenting, and acknowledging the pestilential venome that lay hid in their Sect, they assemble at <hi>Munster</hi> the chief City of <hi>Westphalia,</hi>
                <note place="margin">
                   <hi>Those that e<g ref="char:EOLhyphen"/>scape g<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -445,7 +446,7 @@ and companions, instead of repenting, and acknowledging the pestilential venome 
                </note> whereupon the Senate forbade them from that time forward, not to meddle with preaching, seeing they were convinced of Errours and false Doctrines, and command<g ref="char:EOLhyphen"/>ed them to resign their places unto those Teachers which had
 
 
-<pb n="11" facs="tcp:000119_0014_0FA02A43697DDF38"/>
+<pb n="11" facs="unknown:000119_0014_0FA02A43697DDF38"/>
 discovered their errours and abuses. Soon after there was as<g ref="char:EOLhyphen"/>signed to each his Temple to preach in, by the consent of the Senate; and all the City was in peace and tranquillity.</p>
             <p>But Satan the enemy of peace and truth,<note place="margin">
                   <hi>Sata<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -486,7 +487,7 @@ discovered their errours and abuses. Soon after there was as<g ref="char:EOLhyph
                </note> This <hi>Herman</hi> had been the Disciple of <hi>Henry de Rolles,</hi> whom they of <hi>Vtrecht</hi> had lately executed, because he
 
 
-<pb n="12" facs="tcp:000119_0015_0FA02A45F6782EF0"/>
+<pb n="12" facs="unknown:000119_0015_0FA02A45F6782EF0"/>
 was an Anabaptist; he publickly reproved Childrens Baptism, saying, <hi>That it was an abomination before God.</hi> Because of this, there arose great stirs among the people; and those who for<g ref="char:EOLhyphen"/>merly were secretly seduced by <hi>John Becold</hi> of <hi>Leyden,</hi>
                <note place="margin">Becolds <hi>disci<g ref="char:EOLhyphen"/>ples vent their opinions, hold rightly meetings</hi>
                </note> now vent<g ref="char:EOLhyphen"/>ed their Opinions, and almost throughout the whole City often<g ref="char:EOLhyphen"/>times held Conventicles, and secretly assembled in private hou<g ref="char:EOLhyphen"/>ses: and their Ministers taught onely by night, when as others took their rest; which was the fittest time for the working of their mysteries. These things much provoked the Senate; and because the nightly meetings and Sermons of the Anabaptists were ill resented,<note place="margin">
@@ -518,7 +519,7 @@ was an Anabaptist; he publickly reproved Childrens Baptism, saying, <hi>That it 
                </gap> he preached in a Temple or a Church by the autho<g ref="char:EOLhyphen"/>rity of the Senate, and they turned him out. Then many of them ran about the City, as if they had been divinely transported in their spirit, crying with a loud voice, <hi>Repent and be Re-baptized, otherwise the wrath of God will fall upon you.</hi> Many good people fearing the wrath of God (whereof they so much talked) and
 
 
-<pb n="13" facs="tcp:000119_0016_0FA02A4ABABDA4B8"/>
+<pb n="13" facs="unknown:000119_0016_0FA02A4ABABDA4B8"/>
 in their simplicity being deceived, and some for fear of losing their estates, obeyed them: for after the Anabaptists had got the upper hand of their adversaries, they turned them out, and deprived them of their estates.<note place="margin">
                   <hi>Take away their estates.</hi>
                </note> These things were done in the year 1533, and in the beginning of 34 and when they had been hidden, they came forth out of their dens and caves, and they went all together unto the Market place with great cries and howlings, and commanded,<note place="margin">
@@ -549,7 +550,7 @@ in their simplicity being deceived, and some for fear of losing their estates, o
                </note> and that they should not fail to receive ten times more then they left behinde them. Great multitudes both of men and women hearkning unto these magnificent pro<g ref="char:EOLhyphen"/>mises, came in unto them, and upon hopes of preferment, re<g ref="char:EOLhyphen"/>paired unto <hi>Munster</hi>; chiefly the poorer sort, who knew not how to subsist. The Citizens and more wealthy among them, seeing the City to swarm with strangers, withdrew as fairly as they could, abandoning their place unto the Anabaptists: this was about <hi>Lent,</hi> in the Moneth of <hi>February</hi> 1534. By this means the Anabaptists became Masters, and chose a new Senate of their own party, with Consuls; among whom were <hi>Knip<g ref="char:EOLhyphen"/>perdoling</hi> and <hi>Cipperbrok:</hi> soon after they fell upon the Temple
 
 
-<pb n="14" facs="tcp:000119_0017_0FA02A4C114B8168"/>
+<pb n="14" facs="unknown:000119_0017_0FA02A4C114B8168"/>
 of S. <hi>Maurice,</hi> which was near unto the City, and burnt it with the neighbouring Edifices;<note place="margin">
                   <hi>Burn the Church of</hi> S. Maurice.</note> and pillaged all the Temples, and spoiled the chief Temple. Within a few dayes after they flocking together ran about the streets, and in a dreadful manner cried out,<note place="margin">
                   <p>
@@ -566,7 +567,7 @@ of S. <hi>Maurice,</hi> which was near unto the City, and burnt it with the neig
                </note> who were both audacious, and prating fellows; they boasted of Visions, and of the Spirit of Prophecie. By Pro<g ref="char:EOLhyphen"/>phetical Authority, this holy Prophet commanded all the City to bring in all their Gold, Silver, and other moveable goods
 
 
-<pb n="15" facs="tcp:000119_0018_0FA02A4D16E23338"/>
+<pb n="15" facs="unknown:000119_0018_0FA02A4D16E23338"/>
 to be common, and that none upon pain of death, should re<g ref="char:EOLhyphen"/>serve any thing for his own private use: and to this end, there was a Publick house appointed. The people were very much astonished at the rigour of this Edict, yet notwithstanding o<g ref="char:EOLhyphen"/>beyed it: it was not possible to retain or conceal any portion; for there were two Maides Divineresses, who did reveal it,<note place="margin">
                   <hi>Divineresses re<g ref="char:EOLhyphen"/>veal such as re<g ref="char:EOLhyphen"/>tained the goods and all books besides the Bible to be burnt.</hi>
                </note> if there were any that did retain any thing. Afterwards these Prophets commanded that none should keep any books except the Holy Bible; and that all others should publickly be brought forth and abolished: he said, that he received this Command from God; wherefore great numbers of books were brought together and consumed by fire.</p>
@@ -581,7 +582,7 @@ to be common, and that none upon pain of death, should re<g ref="char:EOLhyphen"
                </note> a Souldier called <hi>Mesnicus</hi> faced him, and shot him quite through the belly: This was the woful end of this mad Prophet: and although the fraud of these Prophets was well known, yet the people were so bewitched by them, and so deprived of their reason, that they much bewailed this their goodly Prophet, saying, That
 
 
-<pb n="19" facs="tcp:000119_0019_0FA02A4F223F78A8"/>
+<pb n="19" facs="unknown:000119_0019_0FA02A4F223F78A8"/>
 there would some mischief befal them, because such a Prophet was taken from them.</p>
             <p>
                <hi>John Becold</hi> of <hi>Leyden</hi> commanded the second Prophet after him, to be of a good courage; because that of a long time be<g ref="char:EOLhyphen"/>fore, it had been revealed unto him, that he should come to such an end, and that he should marry his widow. Two dayes after <hi>Easter,</hi> they ran to the Churches, and rang all the Bells toge<g ref="char:EOLhyphen"/>ther:<note place="margin">Knipperdo<g ref="char:EOLhyphen"/>ling <hi>prophe<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -607,7 +608,7 @@ there would some mischief befal them, because such a Prophet was taken from them
                </note> and required them to con<g ref="char:EOLhyphen"/>firm them, by testimony of Scripture; otherwise he would bring
 
 
-<pb n="17" facs="tcp:000119_0020_0FA02A5054BAA400"/>
+<pb n="17" facs="unknown:000119_0020_0FA02A5054BAA400"/>
 them unto the people, that they might ratifie and approve them.</p>
             <p>The sum of these Articles was, that a man was not bound to have but one Wife,<note place="margin">
                   <hi>The <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -632,7 +633,7 @@ them unto the people, that they might ratifie and approve them.</p>
                   </gap>d</hi>
 
 
-               <pb n="18" facs="tcp:000119_0021_0FA02A51F036F0F8"/>
+               <pb n="18" facs="unknown:000119_0021_0FA02A51F036F0F8"/>
 and <hi>Solomon,</hi> and divers others, and said that the Word of <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> commanded it, saying <hi>Increase, multiply, and fill the earth.</hi> W<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -701,7 +702,7 @@ and <hi>Solomon,</hi> and divers others, and said that the Word of <gap reason="
                </note> he bore a Scepter with a Chain of Gold; and likewise his Spurs with Rowels of Gold: in brief, he was not clad but with Silk, Velvet and Gold, which they had stollen out of the Churches: his Horses were accordingly ac<g ref="char:EOLhyphen"/>coutred: he appointed certain dayes to give audience to all
 
 
-<pb n="19" facs="tcp:000119_0022_0FA02A52EAF515E8"/>
+<pb n="19" facs="unknown:000119_0022_0FA02A52EAF515E8"/>
 such as addressed themselves unto him for any business; and when he went abroad, he was attended upon by his Servants,<note place="margin">
                   <hi>His pompous train and at<g ref="char:EOLhyphen"/>tendance.</hi>
                </note> and Gentlemen of his Court: next unto him there went two young men on Horse-back magnificently clad; he that went on the right hand bare the Crown and the Bible, the other on the left hand bare a naked Sword, the Pommel whereof was of pure Gold, and richly adorned with precious Stones: the King had his Chain of Gold about his neck, and he was all glit<g ref="char:EOLhyphen"/>tering with Gold and precious Stones: he bare in his hand a Globe of Gold. His waiting-Gentlemen were twenty eight, clad like Courtiers, with garments of mixed colour of green and blew, to signifie his Heavenly and Earthly Power. Upon the Kings Girdle was written, <hi>The power of God is my strength:</hi> thus was the Name of God prophaned and blasphemed, to cloak this Villains stinking infamy. Furthermore, his Title was, <hi>The King of the New Jerusalem, King of Righteousness, through<g ref="char:EOLhyphen"/>out all the World.</hi> The pomp of his chief Wife (for he had many together) was equal to his own: his Servants were <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -715,14 +716,14 @@ such as addressed themselves unto him for any business; and when he went abroad,
                </note> but because he did it too long, and would not make an end, the King was angry, and went his way. He suddenly mounted into the Throne;
 
 
-<pb n="20" facs="tcp:000119_0023_0FA02A542F67A690"/>
+<pb n="20" facs="unknown:000119_0023_0FA02A542F67A690"/>
 but the King surprizing him, threw him down, and three dayes kept him in Prison.</p>
             <p>Is there not here to be seen a wonderfull rage and mad<g ref="char:EOLhyphen"/>ness? Who could have believed that any bearing humane shape, should have been left to commit things so foolish, absurd, vil<g ref="char:EOLhyphen"/>lanous and execrable? but it cannot be otherwise with such as violate, trample upon, and reject the Word of God; they are by Divine judgement smitten, so as to be an example to the Elect. But let us behold their goodly glorious King, now mounted with more then Royal Pomp: where is the spirit of these Anabaptists, who were so ready to reprove and reject others? At first they cried out against all; if they saw any Matron wear silk, or any man of fashion to wear a gold Ring, they cried down all<g ref="char:punc">▪</g> but now their glorious King Taylor omit<g ref="char:EOLhyphen"/>teth nothing, that may set forth his Pomp and State. In the beginning they would not bear to hear, that any honest man should be a Bailiff, or Governour of a Village; but soon the wind is changed, and now by command from the Father, their King is not King of a Village, but of the whole World; for so he caused himself to be styled. During this Siege, the Pro<g ref="char:EOLhyphen"/>phets of <hi>Munster</hi> published a Book, which they intituled, <hi>The Ristitution</hi>; wherein they maintained <hi>Muntzers</hi> damnable Do<g ref="char:EOLhyphen"/>ctrine, and an infinite of Errours.</p>
             <p>Afterwards in the Moneth of <hi>August,</hi> on the day which is called S. <hi>Bartholomews,</hi> the new Prophet called <hi>John Twiscoscar</hi> sounded the Trumpet through the streets, and cried out, that <hi>All should meet in Arms about the way to the great Church; for they must give a repulse to the Enemies of the City:</hi> being thi<g ref="char:EOLhyphen"/>ther come, they finde a Supper ready, which the King had pro<g ref="char:EOLhyphen"/>vided; and by command the people did sit down, to the num<g ref="char:EOLhyphen"/>ber of four thousand: the King, Queen, and Courtiers wait<g ref="char:EOLhyphen"/>ed at the Table. Supper almost being finished, the King gave unleavened bread to all,<note place="margin">Becolds <hi>mock-Lords Supper.</hi>
                </note> saying, <hi>Take, eat, declare the death of the Lord:</hi> then the Queen presented the Cup, saying, <hi>Drink, declare the death of the Lord.</hi> Behold the brave Supper of these Anabaptists, which was rather a voluptuous Banquet, the Table
 
 
-<pb n="21" facs="tcp:000119_0024_0FA02A5A085865F8"/>
+<pb n="21" facs="unknown:000119_0024_0FA02A5A085865F8"/>
 of Devils, then the Table of our Lord Jesus Christ. Now when the Supper was ended, the new Prophet gat him up into the Pulpit, and asked them whether they would obey the Word of God? they all said, Yes:<note place="margin">Twisc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -738,7 +739,7 @@ of Devils, then the Table of our Lord Jesus Christ. Now when the Supper was ende
             <p>And when they were arrived at the places assigned unto them, they began to run through the City with horrible cries, crying, <hi>Repent, repent, otherwise ye will suddenly perish:</hi> then they cast their garments upon the ground, and threw their pieces of Gold which were given unto them upon their gar<g ref="char:EOLhyphen"/>ments, assuring them that they were sent by the Father, to bring peace unto them if they would receive it: they com<g ref="char:EOLhyphen"/>manded them to put all their goods in common; if they did refuse it, by this sign, and as by a mark, they did bear witness against their ingratitude, and evil deeds: for behold the time now is come, which was foretold by the Prophets, wherein the Lord God would, that Righteousness should reign through
 
 
-<pb n="22" facs="tcp:000119_0025_0FA02A5DA1E769B0"/>
+<pb n="22" facs="unknown:000119_0025_0FA02A5DA1E769B0"/>
 all the earth: and after that the King shall have discharged his trust, and shall have so done, that Righteousness shall reign every where; Then Christ shall deliver up the Kingdome to the Father.</p>
             <p>Upon these words they were apprehended, and in the be<g ref="char:EOLhyphen"/>ginning fairly demanded, then by the Rack examined of their faith, life, and Ammunition of the City. They answered, that they alone had the true Doctrine, which they would unto the death maintain: for since the Apostles time the Gospel was not truly preached, and that there was no righteousness; that there were four Prophets, two of which were true, namely, <hi>David George,</hi> and <hi>John Becold</hi> of <hi>Leyden</hi>; two were false, namely, the Pope, and <hi>Luther</hi> worse then the Pope. Being asked why they drave the honest people out of the City, a<g ref="char:EOLhyphen"/>gainst their faith and promise, and detained their Goods, Wives and Children; and by what Text of Scripture they could war<g ref="char:EOLhyphen"/>rant that unrighteousness? They answered, That the time was now come, wherein the Word of Christ should be fulfilled, <hi>that the meek should possess the earth</hi>; and that God in this man<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -747,7 +748,7 @@ all the earth: and after that the King shall have discharged his trust, and shal
             <p>At the same time there arose another Prophet, called <hi>Henry Hilvers,</hi> a wicked man, subtil and wary; he came to declare un<g ref="char:EOLhyphen"/>to the King and the people, that the heavenly Father had re<g ref="char:EOLhyphen"/>vealed unto him, that three rich Cities with all their goods should be given unto them by God, namely, <hi>Amsterdam, De<g ref="char:EOLhyphen"/>venter,</hi> and <hi>Wesel.</hi> The King hearing this, set himself to con<g ref="char:EOLhyphen"/>sult with his Council, by what means they might bring these
 
 
-<pb n="23" facs="tcp:000119_0026_0FA02A5DB87F0728"/>
+<pb n="23" facs="unknown:000119_0026_0FA02A5DB87F0728"/>
 three Cities unto Anabaptism; and to this effect they sent cer<g ref="char:EOLhyphen"/>tain men unto these places. In the first place he sent <hi>James Campen<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>
@@ -756,7 +757,7 @@ three Cities unto Anabaptism; and to this effect they sent cer<g ref="char:EOLhy
                   </gap>ise</hi>; and acted so by certain men that assisted him, that on the 30 of <hi>March</hi> 1535, he mustered up and raised an Army, and took a Monastery, and drave out the Friers, and there quartered his Camp, until his Army should augment and be compleated. <hi>George Schenck</hi> who was then Governour of <hi>Frise,</hi> speedily assaulted them as seditious persons: they valliantly de<g ref="char:EOLhyphen"/>fended themselves, but he gained the Victory and defeated them; but not without great loss: they were all cut off ex<g ref="char:EOLhyphen"/>cept sixty, who were brought to <hi>Leanard,</hi> and after were pun<g ref="char:EOLhyphen"/>ished according to their deserts. Their Captain <hi>John Gelen</hi> escaped and fled to <hi>Amsterdam,</hi> to be the author of some fur<g ref="char:EOLhyphen"/>ther sedition; where he found many Anabaptists, whom <hi>James Campense</hi> had seduced; he promised them great matters, high<g ref="char:EOLhyphen"/>ly exalting the glory and liberty at <hi>Munster,</hi> magnificently preaching the new raign of righteousness upon earth. For by this time the renown of <hi>Munster</hi> was spread, which anima<g ref="char:EOLhyphen"/>ted the courage of many; seeing so great an Army had be<g ref="char:EOLhyphen"/>sieged them, yea, and had stormed them often, with the loss of many; and that they saw the Anabaptists to persist in their purpose: many who were desirous to be freed from their debts,
 
 
-<pb n="24" facs="tcp:000119_0027_0FA02A5E75564048"/>
+<pb n="24" facs="unknown:000119_0027_0FA02A5E75564048"/>
 and to triumph, did greatly desire to enjoy the liber<g ref="char:EOLhyphen"/>ty of <hi>Munster. Henry Gesbell</hi> a Citizen of <hi>Amsterdam,</hi> a stout man, and of renown for Souldiery, was gained by the A<g ref="char:EOLhyphen"/>nabaptists, and was very familiar with <hi>John Gelen</hi>; who being drawn to their party by large promises, much was wrought by him: for in the conclusion 600 Anabaptists met together, with whom they intended and attempted to take <hi>Amsterdam,</hi> to set up their new raign, as they had done at <hi>Munster</hi>: for upon the 10. of <hi>May,</hi> the first and the chiefest of them, assembled in the house of <hi>Peter Gale</hi>; where after consultation they came forth into the street; for that day the Citizens were merry, and had according to a custom among them been at a Game.</p>
             <p>About 10 a clock, the Anabaptists ran together in the streets, about the Cross, which was a publick place, crying out, <hi>Amend your lives,</hi> &amp;c. whosoever will this night be rich and happy, let him march along with us: and as the number of their people encreased more and more, they slew part of them who <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -771,7 +772,7 @@ and to triumph, did greatly desire to enjoy the liber<g ref="char:EOLhyphen"/>ty
             <p>There was a certain man in the Town of <hi>Leyden,</hi> who being forced unto it by torments, confessed that the King of the A<g ref="char:EOLhyphen"/>nabaptists dwelt in <hi>Vtricht</hi>; but that he was not yet crowned, but only designed to be Prince in the Kingdom of Israel: this prisoner was not only found possessed of vessels of silver and
 
 
-<pb n="25" facs="tcp:000119_0028_0FA02A608A979028"/>
+<pb n="25" facs="unknown:000119_0028_0FA02A608A979028"/>
 gold, which by evil practise he had stoln; but also guilty of several crimes, for which he was executed: there is no doubt, but that by this King they did intend <hi>David George.</hi>
             </p>
             <p>In the mean while, although at <hi>Munster</hi> their King and Pro<g ref="char:EOLhyphen"/>phets had made unto the poor people most great and magnifi<g ref="char:EOLhyphen"/>cent promises; yet now every day they were oppressed with great necessity, and chiefly through Famine, insomuch as many were starved, and died for want of bread.</p>
@@ -779,7 +780,7 @@ gold, which by evil practise he had stoln; but also guilty of several crimes, fo
             <p>In the Moneth of <hi>February,</hi> the famine was so great, that many died through hunger and want. One of the Queens (for there were many) called <hi>Elisa,</hi> out of pity to the People, oc<g ref="char:EOLhyphen"/>casionally said, That she did not believe that it was pleasing un<g ref="char:EOLhyphen"/>to God, that the people should thus perish through famine: The King, who had store of good provision in his house, not only for necessity, but also to make good cheer; withal know<g ref="char:EOLhyphen"/>ing
 
 
-<pb n="26" facs="tcp:000119_0029_0FA02A630DF5C2D0"/>
+<pb n="26" facs="unknown:000119_0029_0FA02A630DF5C2D0"/>
 this, brought her into the Market place with all the other Queens, and commanded them all to fall down upon their knees about her; and unsheathing his sword he struck off her head from off her shoulders: and not being contented herewith, he reproached her as a bawd: the other wives fell a singing after this goodly deed, <hi>Glory be unto God in the highest</hi>; and gave thanks unto the heavenly Father: and then they fell a dan<g ref="char:EOLhyphen"/>cing; the King led the Gallia<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d, and exhorted the poor people to leap, dance, and to rejoyce also, who had nought left but a little bread and salt.</p>
@@ -787,20 +788,20 @@ this, brought her into the Market place with all the other Queens, and commanded
             <p>If we should reckon up the miseries, calamities, and other evils which those of the City endured, it were a miserable thing to hear: divers who would not bear the famine, fled to the ene<g ref="char:EOLhyphen"/>my; not so much looking for mercy, as that their pain might be expired by death: many crawled upon their bellies in the streets, and others dyed in the wayes: it was an horrible thing to see many walking quite stripped of flesh, nothing left but skin upon the bones. Their ears, lips, cheeks, and noses were so shrunk up, as one might almost see day-light through them, as
 
 
-<pb n="27" facs="tcp:000119_0030_0FA02A6365093F38"/>
+<pb n="27" facs="unknown:000119_0030_0FA02A6365093F38"/>
 through a piece of Paper. Through feebleness, they could not carry their bodies: some went to the enemy disarmed, trailing a staff in their hands: whiles provision lasted, none talked of going to the enemy, but now when this was spent, then began their desolation and discontent: yet they helpt themselves as long as they could<g ref="char:punc">▪</g> They sowed in the sides of the walls, and in all waste places, rapes, pease, and such seeds, and with this they made shift to pass the Sum<g ref="char:EOLhyphen"/>mer: But when this crop was spent, then it was as Venison to them to feed on dogs, rats and mice; and when the City<g ref="char:punc">▪</g> was taken, there were but two horses left alive: many were so pres<g ref="char:EOLhyphen"/>sed with hunger, as that they did eat the flesh of dead carcasses. Finally, they boiled shoes, old leather<g ref="char:punc">▪</g> and skins, and beat them together, and put them into a pot, and mingled all sorts of mat<g ref="char:EOLhyphen"/>ter together, which they could finde: this was instead of bread; and yet this villain and wicked cheater deceived them, telling them, God tried them, to see whether they would be faithful and constant; and that certainly the Father would deliver them in a short time. Now they that would depart out of the City, to be delivered from these mischiefs, were to present themselves before the King: and there this Robber took from them all that they had; and when they were ransacked, he said, Now get you gone to the Hereticks.</p>
             <p>The King had yet provision of Victuals in his Palace, for a<g ref="char:EOLhyphen"/>bout two Moneths; but it was only for his Courtiers. They consulted how they might victual the City. Then there stood forth one named <hi>Hansken Vander Langke-strate,</hi> he was one of the Kings Secretaries, and one in whom he confided much: he undertook to re-victual the City, and to bring in three hundred Souldiers to their assistance, and all in fifteen dayes. He de<g ref="char:EOLhyphen"/>parted out of the City, and under this pretence went unto the enemy; and for a certain sum of money sold the City unto the Bishop, offering to lose his life if he did not accomplish i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>: the time for this Plot to be put in execution, was the even of S. <hi>Johns</hi> day, at ten a clock in the night; and that he would open the Gate unto them, provided they came without noise, to the Gate
 
 
-<pb n="28" facs="tcp:000119_0031_0FA02A6478D11EC8"/>
+<pb n="28" facs="unknown:000119_0031_0FA02A6478D11EC8"/>
 of the Cross. Then this Purveyour returned unto the City, and comforted the King, telling him, That he had well ordered his business; and that within fifteen dayes they should have a recruit of Victuals and Souldiers. When the day was come, he told the Watch, That this night their aid and victuals should come; and therefore when they saw them approach, that they should take heed that they made no noise, but be very quiet. At the very time appointed, at ten a clock in the night, the Gate was opened, and the enemy entred. They kill'd the Sentinels, and the <hi>Corps du Gard,</hi> having got the Word. Being thus entred into the City, the Trumpets sound an Alarm; suddenly the King and his men put themselves into a posture to fight, and to repulse the enemy back again to the Gate, which was now shut by some of the Citizens. The enemies without broke up the Gates; for they heard how they charged upon their people within: and being now entred in, they display their Colours. Those of the City abode the brunt a little at first, and were drawn up in the Market place: the Battel was very great. The King, <hi>Knipperdoling</hi> and <hi>Crechting,</hi> were taken: then <hi>Rotman</hi> seeing no hope to escape, thrust himself into the middle of the enemies, and there was run through, because he feared to be taken alive. But when the Anabaptists heard that their King was taken, their courage failed them, and they hid themselves here and there in Cellars, holes and Shop-bulks; yea, if it had been possible, would have ran into mouse-holes. They were ten dayes in pillaging the City, and they found in the Kings Pa<g ref="char:EOLhyphen"/>lace provision for 200 men for two Moneths: whereas the poor people were for a long time starved. This was called, <hi>To have things in common</hi>; when as some had to eat, and others were starved. This was like <hi>Ananias</hi> and <hi>Sapphira</hi>'s dealing before the Apostle <hi>Peter.</hi>
             </p>
             <p>Thus was the City of <hi>Munster</hi> taken, the 25 of <hi>June</hi> 1535. The King was three days after, by a guard of Souldiers brought to a Castle three leagues from the City, called <hi>Dulme.</hi> As soon as the Bishop perceived the King, he cried out, Oh thou wretch! how hast thou brought spoil and waste to me, and to my poor
 
 
-<pb n="29" facs="tcp:000119_0032_0FA02A6522FA9AE8"/>
+<pb n="29" facs="unknown:000119_0032_0FA02A6522FA9AE8"/>
 people! The King readily and proudly answered, lifting up himself, and despising the Bishop, said, <hi>Priest, we have not dam<g ref="char:EOLhyphen"/>nified thee one mite, but we have delivered a strong City into thine hands, which is able to stand out against all strength: yet if We have done thee damage, if thou wilt hearken unto us, we will make make thee rich.</hi> The Bishop hearing that, could not forbear laughing, and asked him, how he would do it? The King an<g ref="char:EOLhyphen"/>swered him, <hi>Get Baskets made of Iron, and cover them over with Leather, and put me in one of them, and cause me to be carried through the Country, and let no man see me, but he that shall give thee a peny; and by this means, thou shalt receive more money then thou hast spent in the War.</hi>
             </p>
             <p>The better and most holy Anabaptists hung about their necks the mark and ensign of their King engraven in Brass, marked with these three letters, <hi>D. W. E.</hi> which in their language signified, <hi>The Word was made Flesh.</hi> The King had for his Title, <hi>I John by the grace of God, and by vertue of the new Kingdome to come in the Temple of God, Minister of Righteousness, &amp;c.</hi>
@@ -809,25 +810,25 @@ people! The King readily and proudly answered, lifting up himself, and despising
             <p>The 20 of <hi>Jan.</hi> 1536. the King and his two Companions were brought back to <hi>Munster,</hi> and put in several Prisons; the two next dayes were spent in holy Remonstrances, to reduce
 
 
-<pb n="30" facs="tcp:000119_0033_0FA02A658A643F70"/>
+<pb n="30" facs="unknown:000119_0033_0FA02A658A643F70"/>
 them from their errours. The King acknowledged his sin, and had recourse to Christ by prayer: the other two acknowledged not their faults, but stood out. The next day the King was brought forth upon a Scaffold, and tied to a post; where were two executioners with hot burning tongs: he indured the three first pinchings of the tongs, without speaking word; afterward he ceased not to call upon the mercy of the Lord. Thus for a whole hour and more, was he torn and dismembred; and to dispatch him out of the world, he was run through with a sword: his two Companions had the like end. Their bodies were put into iron Cages, and hung upon S. <hi>Lamberts</hi> Tower, for a perpetual memorial. Let none think we recite stories of the Anabaptists, which are not to be believed, by adding there<g ref="char:EOLhyphen"/>unto of our own; God forbid that we should so do: for there are many yet living, who were eye-witnesses of these things, and present when they were done. I speak this, that none might be hindred from getting profit by this History, which is true and certain, and brought to light for the instruction of <hi>the people of God.</hi>
             </p>
             <p>In the year 1535. upon the 3 of <hi>February,</hi> in the City of <hi>Amsterdam,</hi> in the street of the <hi>Salines,</hi> in the house of one <hi>John Silert,</hi> who then was far from home, there assembled seven men and five women, then called Anabaptists, among whom there was one called <hi>Theodore Sartor,</hi> who was there inspired; he lay stretched out flat upon the ground, for some space of time, before the other brethren and sisters: who in the end a<g ref="char:EOLhyphen"/>wakened; and prayer being made with great gravity, or rather fair hypocrisie, he then said, That he had seen God in his Maje<g ref="char:EOLhyphen"/>sty; also that he had a vision of all things in heaven and in hell; and that the great day of Judgement was now come: Afterwards he pulled off all his garments, not leaving so much as to cover his shameful parts withall. He commanded the rest of his brethren and sisters to follow his example, upon this pre<g ref="char:EOLhyphen"/>tence, for said he, <hi>The children of God must strip themselves, and put off<g ref="char:punc">▪</g> whatsoever is made and born of the earth; inasmuch as truth is naked, and cannot abide to be wrapped up in any thing:
 
 
-<pb n="31" facs="tcp:000119_0034_0FA02A6646B1E9B8"/>
+<pb n="31" facs="unknown:000119_0034_0FA02A6646B1E9B8"/>
 therefore, to shew themselves veritable and true, ought to unclothe themselves.</hi> The poor people hearing this, put off their clothes; and being no wayes ashamed, became quite naked. <hi>Theodore</hi> commanded them all to imitate him: he leapt out of doors in<g ref="char:EOLhyphen"/>to the publick quite naked, as also did the rest of the men and women, who followed him, crying after an horrible manner, <hi>Wo, wo, wo, Divine vengeance, Divine vengeance, &amp;c.</hi> and in this manner they ran furiously through the City, like mad peo<g ref="char:EOLhyphen"/>ple, crying out so hideously as never was known.</p>
             <p>Then the Citizens ran to take arms (for they knew not whe<g ref="char:EOLhyphen"/>ther the City were surprized by enemies, or what would be<g ref="char:EOLhyphen"/>come of this stir.) Finally, these impudent people were taken being quite naked; and being questioned upon the 5 of <hi>March,</hi> these seven men were beaten and scourged: the first of them cried out, <hi>Praise the Lord for evermore</hi>: another said, <hi>Lord, avenge the blood of thine</hi>: the third, <hi>Open your eyes, &amp;c.</hi> the fourth said, <hi>Wo, wo.</hi> Afterwards the women were brought to punishment: when they were taken, they offered them gar<g ref="char:EOLhyphen"/>ments, but they rejected them, saying, <hi>That the truth ought to be naked.</hi> What men ever heard of such impudency or fury? In the ancient stories we reade of <hi>Adamites,</hi> who also went na<g ref="char:EOLhyphen"/>ked; but it was only among themselves, and at their Festival dayes: but these far surpass them.</p>
             <p>When <hi>Adam</hi> saw himself naked, he sought for covering; and finding nothing more fit then leaves, he made use of those of a Figtree: but these, when as garments were tendred unto them, they refused them; and like dogs ran without shame. Behold what befalleth those that leave the word of God, to cleave unto dreams and Satanical illusions! but behold their madness, in that they dare attribute so much villany unto the holy Spirit of God, and to make him the author of their na<g ref="char:EOLhyphen"/>kedness: they ought to have in remembrance, with what gra<g ref="char:EOLhyphen"/>vity the Apostle <hi>Paul</hi> commandeth women to have their heads covered in the Church: what would he have said if he had seen or known women to run without shame quite naked like Bitches, who commanded that women apparel themselves in de<g ref="char:EOLhyphen"/>cent
 
 
-<pb n="32" facs="tcp:000119_0035_0FA02A66F8306E10"/>
+<pb n="32" facs="unknown:000119_0035_0FA02A66F8306E10"/>
 habit, with shamefac'dness and modesty?</p>
             <p>The things which were done by these Anabaptists in the Towns of St. <hi>Gall</hi> in <hi>Switzerland,</hi> are not less hideous nor hor<g ref="char:EOLhyphen"/>rible then these, whereof we have already heard. For in the year 1526, two brethren which came out of the same womb, <hi>Thomas</hi> and <hi>Leonard Schitker,</hi> inhabiting neer unto the town called <hi>Mulleg</hi>; the 7. of <hi>February,</hi> by night there assembled a great number of Anabaptists in their Fathers house, who spent all the night in preaching and doing marvelous deeds, and re<g ref="char:EOLhyphen"/>ceiving of visions: at Sun-rising, upon the 8 of <hi>February, Tho<g ref="char:EOLhyphen"/>mas</hi> took his brother <hi>Leonard,</hi> and set him in the midst of his kindred, and of all the company, commanding him to fall down upon his knees: now as the rest admonished him, to do no un<g ref="char:EOLhyphen"/>beseeming thing unto his Brother, he answered them, That they needed not to fear, for he should do nothing there, but the will of the Father: in the mean while unsheathing a Sword he cut off his brothers head, who was upon his knees before them all. As all the company were smitten with great fear, and made great and lamentable complaints, <hi>Thomas</hi> who had com<g ref="char:EOLhyphen"/>mitted this Murther, suddenly flyeth out of the Town, using horrible behaviours, as the custom of the Anabaptists is to do.</p>
             <p>This Enthusiast at that time came before the Consul in the town of St. <hi>Gall.</hi> Mr. <hi>Joachim Vadian,</hi> an excellent man and re<g ref="char:EOLhyphen"/>nowned for piety and learning, being present, this Anabaptist cryed out fearfully before him, <hi>The day of the Lord is at hand, the day of the Lord cometh:</hi> he added further, that at the break of day, there had been some great thing done, (but that he concealed the matter) and that the will of the Father was ac<g ref="char:EOLhyphen"/>complished, and that it had been steeped in Gall and Vinegar: the Consul reproved him, and chid him sharply, because of his fury and immoderate cryes, commanding him to cloath him<g ref="char:EOLhyphen"/>self, and to return to his house, and to behave himself peaceably. Suddenly his villanous murther was divulged, and he was ap<g ref="char:EOLhyphen"/>prehended and diligently examined by torture; and afterwards for his villanous fact, by the hand of the Magistrate executed and put to death. This poor Anabaptist had forgot the Do<g ref="char:EOLhyphen"/>ctrine
 
 
-<pb n="33" facs="tcp:000119_0036_0FA02A67C4645FD8"/>
+<pb n="33" facs="unknown:000119_0036_0FA02A67C4645FD8"/>
 of the Apostle, 1 <hi>Joh.</hi> 3.12, &amp;c. but God by his righte<g ref="char:EOLhyphen"/>ous judgement and providence, suffered such villanous and exe<g ref="char:EOLhyphen"/>crable deeds to be committed by these persons, that these wayes may be abominated.</p>
             <p>There was found at <hi>Appasel</hi> in the Country of <hi>Switzerland,</hi>
                <note place="margin">
@@ -855,7 +856,7 @@ of the Apostle, 1 <hi>Joh.</hi> 3.12, &amp;c. but God by his righte<g ref="char:
                <item>15. The Franniques, which also within these few dayes are divided.</item>
             </list>
             <p>
-               <pb n="34" facs="tcp:000119_0037_0FA02A68589E5670"/>Let us now come to behold some of their strange opinions; for that were a work never to be done, to describe them all. We shall begin with <hi>Thomas Muntzer,</hi> of whom mention was made in the beginning of the History.</p>
+               <pb n="34" facs="unknown:000119_0037_0FA02A68589E5670"/>Let us now come to behold some of their strange opinions; for that were a work never to be done, to describe them all. We shall begin with <hi>Thomas Muntzer,</hi> of whom mention was made in the beginning of the History.</p>
             <p>Firstly, He wrote and taught publickly, that the Ministers and Preachers of the Gospel, were not sent of God: and that they preached not the true word of God, but were Scribes and Pharisees, preaching only the dead Letter of the Scri<g ref="char:EOLhyphen"/>pture.</p>
             <p>Moreover, he said, That the writing of the Old Testament, and the preaching of the eternal word, was not the word of God, but was only the testimony thereof: and that we must search for the word in the internal part, <hi>i. e.</hi> in our hearts, where God hath put it, that we need not go far to seek it from without us: The Scribe-Ministers (saith he) think that faith cometh by the Scriptures and preaching, but they are very far off: for all the Scriptures lead us hither, that we must be taught and learned of God, <hi>Joh.</hi> 6.45. <hi>Isai.</hi> 54.13. <hi>Jer</hi> 31.34.</p>
             <p>
@@ -865,12 +866,12 @@ of the Apostle, 1 <hi>Joh.</hi> 3.12, &amp;c. but God by his righte<g ref="char:
                <note place="margin">1 <hi>Tim</hi> 4.12.</note> where he saith, <hi>Be an Example,</hi> &amp;c. where<g ref="char:EOLhyphen"/>by the Apostle sheweth it is needful for the Minister to approve his calling by purity of life,<note place="margin">1 <hi>Tim.</hi> 3.2.</note> otherwise it will be vain and false; also the Bishop must be unblameable. Our new Mennonists and Franniques are of the same opinion. But in the mean while, who seeth not that they endeavour above all things, to set up their own works and righteousnesses, and Pharisee-like to judge &amp; condemn all such as do not as many works as they? It is many times so, that Harlots will boast themselves more of their chastity then honest Matrons: so it was with the false A<g ref="char:EOLhyphen"/>postles at <hi>Corinth,</hi> that they might bring the true Apostles of Christ into disrepute; they so boasted of their own vertue and lowliness, as if the true Apostles were in no wise to be compa<g ref="char:EOLhyphen"/>red
 
 
-<pb n="35" facs="tcp:000119_0038_0FA02A6A47DED4E0"/>
+<pb n="35" facs="unknown:000119_0038_0FA02A6A47DED4E0"/>
 with them. But the Apostle is in no wise astonished at their vain and foolish braggings; yea, he plainly derided them, saying, <hi>We dare not make ours of the number, nor compare our selves with some who commend themselves: but they measuring themselves by themselves, and comparing themselves with themselves, are not wise:</hi> as if the Apostle should have said, they so please them<g ref="char:EOLhyphen"/>selves in themselves, that they think and esteem, that there are none in the World equal or to be compared with themselves: they consider not the gifts wherewith others are endued, but their sight is so fixed upon themselves and their own fair deeds, as that they are perswaded, that they are the only ones, and the None-such in the world. In the mean while, the Apostle lively upbraideth them, saying, Such false Apostles are deceitful work<g ref="char:EOLhyphen"/>ers, disguising themselves into Apostles of Christ; and no marvel, saith he, for Satan transformeth himself into an Angel of light; it is no great matter then, if his Ministers trans<g ref="char:EOLhyphen"/>form themselves into the Ministers of righteousness: whose end shall be according to their works. Moreover, who know<g ref="char:EOLhyphen"/>eth not well, that Doctrine far surpasseth works? so as if the Doctrine be not sound, pure, and true; the works, how holy and fair soever they may be, will never prove the calling of a false Prophet, that he is sent from God.</p>
             <p>If it were lawful for us to boast, it should not be in our san<g ref="char:EOLhyphen"/>ctity, perfection, and mortification, as they do; but onely in the pure mercy of God through Jesus Christ: if so be that gravity and honesty of life, were the true sign of the vocation to the Ministry, it would follow, that all honest and good peo<g ref="char:EOLhyphen"/>ple should be Ministers of the Church; but that is well known to be false, 1 <hi>Cor.</hi> 7.10. nor can it be; for there is a command for <hi>every one to walk in the calling wherein he is called,</hi> 1 Cor. 12.29. He asketh also, <hi>Are all Apostles? are all Prophets? are all Teachers?</hi> Every Christian may or ought to reade, and dis<g ref="char:EOLhyphen"/>course of Scripture; it followeth not therefore that all Chri<g ref="char:EOLhyphen"/>stians are Preachers and Ministers of the Churches, but onely those which are lawfully called; nor doth the calling cease for any failing that may be found in the life of the Called (which is
 
 
-<pb n="36" facs="tcp:000119_0039_0FA02A6A76076FA8"/>
+<pb n="36" facs="unknown:000119_0039_0FA02A6A76076FA8"/>
 not spoken to give occasion to make Ministers negligent; (God forbid:) but the exhortation of the Apostle <hi>Paul,</hi> is alwayes necessary to the Ministers) no more then <hi>Peter</hi> ceased to be a true and lawful Apostle,<note place="margin">
                   <hi>Acts</hi> 6 6. <hi>Act<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -884,7 +885,7 @@ not spoken to give occasion to make Ministers negligent; (God forbid:) but the e
             <p>These Sectaries do defame and reproach the Ministers, and speak all evil of them<g ref="char:punc">▪</g> but it is because they touch them at the
 
 
-<pb n="37" facs="tcp:000119_0040_0FA02A6B2CF5AC90"/>
+<pb n="37" facs="unknown:000119_0040_0FA02A6B2CF5AC90"/>
 quick; because they cry out upon these Wolves, and pluck the sheep-skins from off their backs, that none might be surprized by their fair appearance. Seeing the Gospel-Ministers are styled <hi>Salt of the earth,</hi> none must think strange that the Salt biteth and pricketh, and maketh it self to be Salt: the Salt biteth not where there is no wound, but it is felt where there is a raw place. It will appear then, that they have lost their spiritual senses, who say, That <hi>our Ministers are not called of God:</hi> God hath put singular honour upon the Ministers; yea, what greater could he put upon them, then by saying, <hi>He that heareth you, heareth me; and he that rejecteth you, rejecteth me?</hi> the Lord not only by words, hath recommended the Ministers unto the Church; but also by example, hath shewn what honour and reverence all ought to have them in. The holy Ghost could have taught the Ethiopian Eunuch without the Ministry of man,<note place="margin">
                   <hi>Acts</hi> 8.</note> but he would maintain this order.</p>
             <p>So <hi>Cornelius,</hi> God could have taught him by the Angel,<note place="margin">
@@ -892,7 +893,7 @@ quick; because they cry out upon these Wolves, and pluck the sheep-skins from of
                   <hi>Acts.</hi> 9 6.</note> and should send him to a man, a Minister, to preach unto him. Who with a good Conscience dare then despise the true Ministry, so highly honoured of God; and to disgust men from the same, and to cause men to run after those which were not lawful Mi<g ref="char:EOLhyphen"/>nisters, but thieves, robbers, and grievous Wolves, which spare not the flock of our Lord Jesus Christ?</p>
             <p>Let us now come to the second Point: <hi>Muntzer,</hi> after he had spued out his poison against the poor Ministers of Christ, he falls upon the word of the eternal God; and there, that he may leave nothing intire, with open throat he spits out his blasphemies. It is no marvel if he fall upon the Ministers of the Word, to speak evil of them, seeing he dareth so outragi<g ref="char:EOLhyphen"/>ously to set himself against the very mouth of God<g ref="char:punc">▪</g> Behold his own words.</p>
             <p>
-               <pb n="38" facs="tcp:000119_0041_0FA02A6C0942BE28"/>
+               <pb n="38" facs="unknown:000119_0041_0FA02A6C0942BE28"/>
                <note place="margin">
                   <hi>Object.</hi>
                </note>
@@ -909,7 +910,7 @@ quick; because they cry out upon these Wolves, and pluck the sheep-skins from of
                <hi>Muntzer</hi> careth not for that, but dareth give the Apostle <hi>Peter</hi> the lye. Now they which leave the Scriptures, finding out another means to come unto God, through pride, they are deprived of their senses. They pretend unto Revelations of the Spirit; and despising all reading, they mock at the simple<g ref="char:EOLhyphen"/>ness of those, which yet follow the dead and killing Letter (as they call it.) By what spirit is it, by inspiration whereof they are so highly rapt, as that they dare reject all the Doctrine of the Scriptures, as a babish and childish thing? They say, <hi>It is the Spirit of God</hi>; but it is plain mockery so to speak. For
 
 
-<pb n="39" facs="tcp:000119_0042_0FA02A6CB735F8E0"/>
+<pb n="39" facs="unknown:000119_0042_0FA02A6CB735F8E0"/>
 they must needs grant us, that the Apostles and the faithful in the Primitive Church, were inspired by the Spirit of Christ; yet none of them durst contemn the Word of God, and the holy Scriptures, but rather each of them had them in very great reverence; as we may see it by their writings, which are furnished with many testimonies from the Old Testament: and certainly thus was it promised by God, through the mouth of the Prophet, <hi>Isa.</hi> 59.21. where we see, that the Lord joyn<g ref="char:EOLhyphen"/>ed these two together, his <hi>Word</hi> and his <hi>Spirit:</hi> wherefore should we separate, what God hath by an inviolable bond con<g ref="char:EOLhyphen"/>joyned?</p>
             <p>Moreover, <hi>Paul,</hi> who was rapt up into the third heaven,<note place="margin">2 <hi>Cor.</hi> 12.4.</note> and there heard things unlawful for man to utter, notwith<g ref="char:EOLhyphen"/>standing, gave not over diligent reading, nor profiting by the Books of the Old Testament, Commanding <hi>Timothy</hi> to bring with him the Books which he had left at <hi>Troas</hi> with <hi>Carpus.</hi>
                <note place="margin">2 <hi>Tim.</hi> 4.13. 2 <hi>Tim.</hi> 3.15. 1 <hi>Tim.</hi> 4.13.</note> Yea, he exhorts <hi>Timothy,</hi> who though he was an excellent Teacher, and well instructed in the holy Scriptures, to give himself to reading: and what praise doth he put upon the Scri<g ref="char:EOLhyphen"/>pture! 2 <hi>Tim.</hi> 3.16. I would ask these men, whether they have received another Spirit, then our Saviour promised to give his Disciples? they will not dare to vaunt of another spirit: now what Spirit our Saviour promised to send unto his Disciples, he sheweth plainly, when he saith,<note place="margin">
@@ -917,7 +918,7 @@ they must needs grant us, that the Apostles and the faithful in the Primitive Ch
                <hi>This Spirit shall not speak of himself, but should bring to their remembrance what they had for<g ref="char:EOLhyphen"/>merly heard of him.</hi> It is not the Office of the holy Spirit, that which Christ promised, to dream of dreams, of new and un<g ref="char:EOLhyphen"/>known Revelations, or to hold forth new Doctrine: but it is the work of the Spirit of God, to confirm us in that which he hath already spoken, by the Prophets and Apostles; seeing also that the Lord promiseth not to send us another Doctrine, say<g ref="char:EOLhyphen"/>ing, <hi>Hold fast that which thou hast, untill I come,</hi> Revel. 2.24. <hi>Gal.</hi> 1.8, 9. whereby it appeareth, that we ought diligently to travel, as well in hearing, as in the reading of the holy Scri<g ref="char:EOLhyphen"/>pture, if we will feel the benefit and fruit of the Spirit of God. <hi>Luke</hi> acknowledgeth the diligence of those of <hi>Berea</hi> in search<g ref="char:EOLhyphen"/>ing
 
 
-<pb n="40" facs="tcp:000119_0043_0FA02A6D8068B4B0"/>
+<pb n="40" facs="unknown:000119_0043_0FA02A6D8068B4B0"/>
 the Scriptures, <hi>Acts</hi> 17.11. To this purpose tend these Scriptures: 2 <hi>Pet.</hi> 1.19. <hi>John</hi> 5.39. <hi>Luke</hi> 4.21. <hi>Matth.</hi> 4.4. <hi>Eph.</hi> 6.16. <hi>Mat.</hi> 22.19. <hi>Luke</hi> 24.27. <hi>John</hi> 2.22.</p>
             <p>And <hi>Paul</hi> would have a Bishop to hold fast the faithful word, <hi>Titus</hi> 1.9, &amp;c. <hi>Apollos</hi> was mighty in the Scriptures, <hi>&amp;c. Acts</hi> 14.24, 28.</p>
             <p>If it were otherwise, how could we take heed to the deceits of Satan, who daily transformeth himself into an Angel of light? whereupon should our faith rest? we should be carried to and fro without any stability.</p>
@@ -941,7 +942,7 @@ the Scriptures, <hi>Acts</hi> 17.11. To this purpose tend these Scriptures: 2 <h
                </note>It is very clear, that it is such an examination, as he hath pleased to establish in the Church; that we may not receive the spirit of Satan instead of him: wherefore it must needs be, that the Spirit abide for ever, such as once he hath revealed and manifested himself to be in the holy Scriptures: It is no shame nor opprobry to the Spirit, for any to say of him, That it is no dishonour for him not to be mutable, nor to renounce himself. As for that which they tax the Ministers, to be Ministers of the dead letter, one may plainly see the Lords taking vengeance up<g ref="char:EOLhyphen"/>on the outrage offered unto his holy Word; smiting them with a spirit of giddiness, for having despised the true and on<g ref="char:EOLhyphen"/>ly means of coming unto God, which is the Scripture and the Word of God. In the passage of the Corinthians where
 
 
-<pb n="41" facs="tcp:000119_0044_0FA02A6E24C41818"/>
+<pb n="41" facs="unknown:000119_0044_0FA02A6E24C41818"/>
                <hi>Paul</hi> saith, <hi>The letter killeth, and the Spirit quickeneth</hi>; let any closely consider, against whom the Apostle disputeth,<note place="margin">2 <hi>Cor.</hi> 3 6.</note> and they will understand his drift. It is very evident that <hi>Paul</hi> in this place, had to do with false Apostles, who preached and extolled the Law without Christ, and caused the people to recoil from Salvation purchased by Christ, and the grace of the new Cove<g ref="char:EOLhyphen"/>nant, whereunto the Lord had promised to write his Law in the heart of the faithful:<note place="margin">
                   <hi>Jer</hi> 31.33. <hi>Ezek.</hi> 11.19. <hi>Ezek</hi> 36. <hi>Heb</hi> 8.10.</note> the Law then being separated from Christ, as a body without a soul; and nothing cometh from it but death, to those that are under it: it doth nothing but beat and strike the ears, without any quickening the soul, until by faith we are sent from it unto Christ, as from the Usher unto the Master; and then the Law will be found such as <hi>David</hi> sings it, <hi>The Law of the Lord is perfect, converting the soul; the testimony of the Lord is faithful, making wise the simple:</hi>
                <note place="margin">
@@ -950,7 +951,7 @@ the Scriptures, <hi>Acts</hi> 17.11. To this purpose tend these Scriptures: 2 <h
                   <hi>Luk.</hi> 24 27.</note> It is then wret<g ref="char:EOLhyphen"/>chedly and wickedly done, to cast off the Scripture upon such pretence of the Spirit, seeing our Lord giveth us his Spirit to understand his word: as we see Christ opened the understand<g ref="char:EOLhyphen"/>ing of the two Disciples, not by making them wise in them<g ref="char:EOLhyphen"/>selves, nor setting them to look for a new kinde of word, or natural and innate in them, in rejecting the Scriptures; but that they might understand the Scriptures. After this manner the Apostle <hi>Paul</hi> exhorteth the Thessalonians not to quench the Spirit: he would not have them fly in the air, after vain and un<g ref="char:EOLhyphen"/>profitable
 
 
-<pb n="42" facs="tcp:000119_0045_0FA02A6EF0DAD218"/>
+<pb n="42" facs="unknown:000119_0045_0FA02A6EF0DAD218"/>
 speculations, without the word of God, but conse<g ref="char:EOLhyphen"/>quently he addeth, <hi>despise not prophecie:</hi> thereby shewing, that then the spirit is quenched, and suffocated, when Prophecie is rejected;<note place="margin">
                   <hi>Psal.</hi> 119 105.</note> what will those poor Soules answer, who have rejected the lanthorn, which God hath given to be a light unto their feet? We confess that the external word preached by men, of it self, nor alone, cannot convert the heart, but the Spirit of God must wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -961,12 +962,12 @@ speculations, without the word of God, but conse<g ref="char:EOLhyphen"/>quently
             <p>Our Mennonists have condemned their Father in this point,
 
 
-<pb n="43" facs="tcp:000119_0046_0FA02A6FA4192278"/>
+<pb n="43" facs="unknown:000119_0046_0FA02A6FA4192278"/>
 notwithstanding there be others who maintain this opinion, or rather blasphemy, as some strange spirits, the disciples of <hi>Se<g ref="char:EOLhyphen"/>bastian Franque,</hi> who this day do renew the question: yea, some little space of time since, one of the chief of that Sect, whose name I shall forbear to declare, in the City of <hi>Frankfort,</hi> before several honest people told me, and with might and main maintained, with divers of his disciples, That the earth never bare a more abominable Idol, then that which is called the <hi>Bible</hi>; and that all the World doted upon it, looking therein for the word of God, whereas we should look for it in our hearts: and one of them redoubled it, and said in the presence of Mr. <hi>Alosco</hi> and of us all, What do you talk so much of the Scripture! I assure you on my part, I have learned more by seeing a Hen or a Capon killed, then ever I learned by all the Sermons and Lectures of the Books that ever I read. Unto whom I answered, It must needs be that you eat often of Hens and Capons, seeing you have learned so much by their death: but I pray you, said I, What good did you ever learn thereby? he answered, That he had learned to know, the obedience which Jesus Christ rendred unto God his Father upon the Cross: and that as the fowl was slain without making resistance, and that for the good and life of man; so was Jesus Christ slain for the life of mankinde: it was said then unto him, How do you know that ever there was such an one as Jesus Christ, and that he died for man? do you finde that written in the Capons belly? the Turks also do kill Capons, but they cannot reade there, that Christ was their Saviour. In the end they were ve<g ref="char:EOLhyphen"/>ry angry, and like people deprived of their sences, when they were hampered by the word of God, and by their own reasons. What man is there that would not wonder at such foolish and irrational discourse? is it not just that such people should be so handled, seeing they have rejected the word of the living God, which the Angels themselves desire to pry into, that they should be sent to School unto the bruit beasts.</p>
             <p>Further, I come to the Proposition of <hi>Muntzer,</hi> who saith, <hi>That the Ministers are much deceived, thinking that Faith cometh
 
 
-<pb n="44" facs="tcp:000119_0047_0FA02A706957A228"/>
+<pb n="44" facs="unknown:000119_0047_0FA02A706957A228"/>
 by hearing, and that it is written, Brother shall not teach Brother any more, saying, Know the Lord; for they shall all know me, from the least to the greatest of them, being all taught of God.</hi>
             </p>
             <p>
@@ -985,7 +986,7 @@ by hearing, and that it is written, Brother shall not teach Brother any more, sa
                <hi>&amp;c.</hi> that we be not unstable, children, tossed to and fro with all winds of strange doctrine, <hi>&amp;c.</hi> whereby it appeareth,
 
 
-<pb n="45" facs="tcp:000119_0048_0FA02A71239AB730"/>
+<pb n="45" facs="unknown:000119_0048_0FA02A71239AB730"/>
 that the Prophet never intended to bereave their Church of an ornament so preaious and necessary: The Prophet onely would tell us, that God would manifest himself to small and great, and that the Church should have children instructed and taught <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> God, as was promised by <hi>Isaiah.</hi> This passage then is very cle<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -998,14 +999,14 @@ that the Prophet never intended to bereave their Church of an ornament so preaio
                   </gap> Prophets, And they shall all be taught of God; whosoever then hath heard, and learned of the Father, cometh unto me.</hi> Christ thereby sheweth, that those who have heard, and learned of the Father, do not disdain and reject the Ministry; but they come unto it, and receive profit thereby: and all this sheweth, that we are of our selves altogether indisposed to come unto this knowledge of God; for otherwise God would not promise, to cause us to walk in his statutes; and if it were in our own power so to do, and that neither great ones by their wisdom, not little ones by reason of their ignorance can mount so high, unless by the Holy Ghost they be drawn: Be<g ref="char:EOLhyphen"/>hold, the true sense of the place, so wofully corrupted by these first Anabaptists, and all they pretend unto, tends not, but after they have deprived the Church of the Ministry, and the preach<g ref="char:EOLhyphen"/>ing of the Word, to open the door unto Visions and Dreams, as they already have shewn at <hi>Munster</hi> and <hi>Amsterdam,</hi> as <hi>Muntzer</hi> their first father had begun unto them. Was it not a pleasing thing to hear this alwayes sounding from their
 
 
-<pb n="46" facs="tcp:000119_0049_0FA02A736DBCD108"/>
+<pb n="46" facs="unknown:000119_0049_0FA02A736DBCD108"/>
 mouths, The Spirit hath revealed it unto me, The Father hath commanded me? and when any brought a tes<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>imony of Scrip<g ref="char:EOLhyphen"/>ture contrary to their dreams and visions, suddenly they replied, What have we to do with the dead Letter, seeing we have the lively word of God imprinted in a living spirit? as if the holy Ghost, who is the Author of the holy Scriptures, could con<g ref="char:EOLhyphen"/>tradict himself. The Apostle <hi>Paul</hi> foreseeing that such Sects would rise up, who would despise the preaching of the Word; he adjureth his Disciple <hi>Timothy</hi> before God and the Lord Je<g ref="char:EOLhyphen"/>sus, who shall judge both quick and dead, to preach the Word, and to be instant in season &amp;c. Satan knoweth, that he must take off men from the Ministry of the Word, when he will have them at his beck, to put into their heads what shall seem good unto him: and therefore his labour is to bring men unto this, that they might hold nothing certain; but that they finally be<g ref="char:EOLhyphen"/>ing disturbed and uncertain he might make them despair. Thus in the beginning he wrought with our Mother <hi>Eve,</hi> denying the express word of God: the Lord had said, <hi>In the day that you eat thereof, you shall dye the death.</hi> The Devil on the contrary denyeth it, and saith, No, no, you shall not dye: so n<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>w he laboureth to take from our eyes the word of God; but what may we look for afterwards, but that we may be confounded, not knowing what side to turn unto? For if we acknowledge no more the Scriptures to be the true word of God, which as the Apostle <hi>Paul</hi> saith, <hi>Was before time written for us, that we through pa<g ref="char:EOLhyphen"/>tience and consolation of the Scriptures, might have hope</hi>; what will our estate be? certainly we shall be more miserabe then the beasts; and we must give up our selves to Dreams and Fables, as those who have rejected this light, and must perish wofully.</p>
             <div type="part">
-               <pb n="47" facs="tcp:000119_0050_0FA02A74240B2088"/>
+               <pb n="47" facs="unknown:000119_0050_0FA02A74240B2088"/>
                <head>Of the Dreams of the Anabaptists, and how they are con<g ref="char:EOLhyphen"/>demned by the Word of God.</head>
                <p>
                   <hi>MVntzer</hi> having thus prophaned and rejected the word of God, he preached dreams, very goodly revelations,<note place="margin">Muntzer <hi>preacheth dreams and re<g ref="char:EOLhyphen"/>velations.</hi>
@@ -1018,7 +1019,7 @@ mouths, The Spirit hath revealed it unto me, The Father hath commanded me? and w
                <p>Moreover, <hi>Muntzer</hi> cometh from thence to grapple with the sacrifice of the Son of God, to vomit out his stinking blas<g ref="char:EOLhyphen"/>phemies
 
 
-<pb n="48" facs="tcp:000119_0051_0FA02A79DFE35C50"/>
+<pb n="48" facs="unknown:000119_0051_0FA02A79DFE35C50"/>
 against it<g ref="char:punc">▪</g> saying, Ministers are lyers, when they say, That Jesus Christ hath satisfied for us,<note place="margin">Mun<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>zers <hi>de<g ref="char:EOLhyphen"/>nial of Christs sati<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1048,7 +1049,7 @@ against it<g ref="char:punc">▪</g> saying, Ministers are lyers, when they say,
                   </note> is the way to make men careless of doing well: but on the contrary to preach Christ who dyed for our sins, and that he gave himself out of perfect love a sacrifice for our Re<g ref="char:EOLhyphen"/>demption, is the way to be stirred up with burning zeal to good works. Furthermore we must not preach the Gospel as we
 
 
-<pb n="49" facs="tcp:000119_0052_0FA02A7B96818920"/>
+<pb n="49" facs="unknown:000119_0052_0FA02A7B96818920"/>
 please, but as it is appointed of the Father, and as the Scripture testifie, that the Apostles preached it: of such men the Apostle <hi>Peter</hi> warneth us, saying, <hi>That there shall arise false Prophets,</hi> &amp;c. 2 <hi>Pet.</hi> 2.2. Let notice be taken whether <hi>Muntzer</hi> and his companions be not of that number, who dare not plainly say as much, but they will say as we do; but being put unto it, they make Jesus Christ but an half Saviour, by bringing in good works. We say, That faith without works is dead: but they justifie us not before God, neither blot out our sins. As the flame is not without light, otherwise it were not flame;<note place="margin">
                      <hi>Simile.</hi>
                   </note> yet it's light burneth not, it is the fire, and the flame only that doth lighten: so faith is not without works; but works burn not, <hi>i. e.</hi> take not away sin; it is faith in Christ only: thus we speak of the vertue of the property of faith, shewing that those who have this true faith, cannot be lazie, so as out of love to God, they should not do good works to glorifie God, &amp;c.</p>
@@ -1061,7 +1062,7 @@ please, but as it is appointed of the Father, and as the Scripture testifie, tha
                   <note place="margin">1 <hi>Cor.</hi> 7.10, 12.</note> &amp;c. what could be more plainly said, to prove the marriages of be<g ref="char:EOLhyphen"/>lievers
 
 
-<pb n="50" facs="tcp:000119_0053_0FA02A7CE5FBF020"/>
+<pb n="50" facs="unknown:000119_0053_0FA02A7CE5FBF020"/>
 with unbelievers, to be true marriages, though they were joyned together in the time of their unbelief? See how these poor people are become shameless, in laying open their filthiness before all the world! who would not wonder to see such spiritual people as these pretend themselves to be, to live upon the goods and riches of whore-mongers! this is the honour that they put upon their Fathers and Mothers, that be<g ref="char:EOLhyphen"/>gat and brought them forth, yea, and upon themselves.</p>
                <p>As for the Apostolical Anabaptists, they are so called, because they follow (as they say) the Apostles,<note place="margin">
                      <hi>Apostolical A<g ref="char:EOLhyphen"/>nabaptists.</hi>
@@ -1072,7 +1073,7 @@ with unbelievers, to be true marriages, though they were joyned together in the 
                   <hi>They said unto him, Nothing: he saith unto them, Now he that hath a purse, let him take it,</hi> &amp;c. As for preaching upon house-tops, what he had told them in their ears; it is no more,
 
 
-<pb n="51" facs="tcp:000119_0054_0FA02A7D295F5EA0"/>
+<pb n="51" facs="unknown:000119_0054_0FA02A7D295F5EA0"/>
 but that what he had told them in secret, they should preach openly. And as for washing of their feet, he would signifie no<g ref="char:EOLhyphen"/>thing else thereby, but that out of love we should be helpful one unto another: for then they had other kind of shoes then we have now, so as their feet were soiled with travelling, and therefore they rightly washed their feet, which now we have no use of, being shod after another manner. Our Anaba<g ref="char:EOLhyphen"/>ptists who practise this, I would have them to consider, how comely this is: for it may fall out through want of women, that men must wash their feet; which how seemly it would be, let them judge. When Christ saith, we must be as little chil<g ref="char:EOLhyphen"/>dren, it is not said, We must be Children, and become foolish; but that we should imitate the plainness and integrity which is in little children; and that is it which the Apostle <hi>Paul</hi> holds forth, when he saith, <hi>Be not children in understanding, but in ma<g ref="char:EOLhyphen"/>lice, &amp;c.</hi> in understanding be men: and every where in the Scriptures, their wandrings and vagations are condemned; for he saith, <hi>Whosoever taketh not care of his own,</hi>
                   <note place="margin">1 <hi>Tim.</hi> 5.8.</note> &amp;c <hi>And let every one abide in the calling wherein he is called,</hi> &amp;c.</p>
                <p>As for the community of Goods, whereof they make so much, <hi>Plato</hi> taught it; the <hi>Essenes</hi> had all things common; and this was sometimes practised in <hi>Jerusalem</hi>: but when it is said,<note place="margin">
@@ -1083,17 +1084,17 @@ but that what he had told them in secret, they should preach openly. And as for 
                      <hi>Act.</hi> 5.</note> It is very evident that Christi<g ref="char:EOLhyphen"/>ans possessed proprieties, and that there were some very rich, who left not their riches to put them into a common stock. <hi>A<g ref="char:EOLhyphen"/>braham</hi> was very rich: this is not to be rejected,<note place="margin">
                      <hi>Gen.</hi> 24 33.</note> though in the Old-Testament, for he is in the New-Testament called the father of the faithful. Yea, Christs speech, <hi>Mat.</hi> 25.35. fully teaches us propriety in goods.</p>
                <p>
-                  <pb n="52" facs="tcp:000119_0055_0FA02A7EF2AD6B50"/>So <hi>Paul,</hi> 1 <hi>Cor.</hi> 16.1. 2 <hi>Cor.</hi> 8.10. 2 <hi>Cor.</hi> 9, 6, 7. <hi>Rom.</hi> 12.13. <hi>Gal.</hi> 6.6. This communion was not in the Church of <hi>Ephesus, Ephes.</hi> 4.28. neither in the Church of the Philippians: see <hi>Phil.</hi> 4.18.</p>
+                  <pb n="52" facs="unknown:000119_0055_0FA02A7EF2AD6B50"/>So <hi>Paul,</hi> 1 <hi>Cor.</hi> 16.1. 2 <hi>Cor.</hi> 8.10. 2 <hi>Cor.</hi> 9, 6, 7. <hi>Rom.</hi> 12.13. <hi>Gal.</hi> 6.6. This communion was not in the Church of <hi>Ephesus, Ephes.</hi> 4.28. neither in the Church of the Philippians: see <hi>Phil.</hi> 4.18.</p>
                <p>The Apostles charge concerning rich men, proves propriety, 1 <hi>Tim.</hi> 6.17 <hi>John</hi> alloweth propriety, 1 <hi>Joh.</hi> 3.17. so <hi>Heb.</hi> 10.34. <hi>Jam.</hi> 2.25. Theft is forbidden by God, and therefore no community. Were not <hi>Isaac,</hi> and <hi>Jacob,</hi> and <hi>Job,</hi> and <hi>Joseph</hi> of <hi>Arimathea,</hi> rich, and retained propriety in goods? <hi>Lazarus</hi> with his two sisters retained their house. The women and <hi>Luke</hi> ministred of their goods unto Christ: <hi>Dorcas, Lydia, Cornelius, had propriety in their estates,</hi> &amp;c. Much more is said to this purpose, but this may suffice.</p>
                <p>Moreover, then the multitude of believers, for the most part, were very poor, as <hi>Paul</hi> saith, <hi>Brethren, you know your calling; not many noble,</hi> &amp;c. This was not done in a disorderly way, but in good order, it being committed unto the Apostles, to distri<g ref="char:EOLhyphen"/>bute according to their judgement, to poor believers among the Jews, who were hated, and had not means to get bread: and because they who had estates were plundered, or were in danger of confiscation of their estates; for this cause it may seem, the Holy Ghost timely set them a work, thus to dispose, and expend their estates, which otherwise would have been lost at the destruction of <hi>Jerusalem,</hi> by <hi>Titus</hi> and <hi>Vespasian,</hi> which came shortly after: before which ruine, the Christians were retired from <hi>Judea,</hi> as <hi>Eusebius</hi> recites: but these Anabaptists would put all the world in a confusion by their community of goods, and that they might enjoy other mens labours: but it is worse for them to bind all men unto it upon pain of damna<g ref="char:EOLhyphen"/>tion.</p>
             </div>
             <div type="part">
-               <pb n="53" facs="tcp:000119_0056_0FA02A83E325E8D8"/>
+               <pb n="53" facs="unknown:000119_0056_0FA02A83E325E8D8"/>
                <head>Of the Spiritual Anabaptists, who are separted from the world.</head>
                <p>AS for the Anabaptists who call themselves <hi>Separated from the world,</hi> and are wholly spiritual; they say, They will have nothing in common with the Gentiles, as they call them, not Fasting, observation of dayes, life, eating and drinking, <hi>&amp;c.</hi> These establish a rule how plain their garments must be, of what stuff, how long, how large, of what matter, and how for manner: they forbid the use of all costly garments, calling such as use them Gentiles, and Pagans: when they see any laugh or be cheerful, they cry, <hi>Woe unto you that laugh now, for ye shall weep.</hi> They fetch continual deep sighs, and are alwayes sad, they reject all feastings and banquets at Weddings, all use of Musick; and as for that speech, <hi>Rom.</hi> 12.1. they have it al<g ref="char:EOLhyphen"/>wayes in their mouthes, <hi>Fashion not your selves unto the world:</hi> they alledge it, as if the Apostle had intended to change the nature and property of all things, and as if so be he com<g ref="char:EOLhyphen"/>manded us to go upon our heads, because the Gentiles go up<g ref="char:EOLhyphen"/>on their feet; or to speak with our feet, and hear with our heels, because the Gentiles speak with their mouthes, and hear with their ears. Whereas the Apostle understandeth no other thing, then that we should not imitate the world in that which is evil; which the Apostle <hi>John</hi> saith, <hi>Love not the world, nor the things that are in the world:</hi> for all that is in the world, the lust of the flesh, the lust of the eye, and the pride of life, is not of the Father. And the Apostle <hi>Paul</hi> expoundeth this, <hi>Ephes.</hi> 4.17. when he chargeth us that we should <hi>not walk as the Gentiles walk, in the vanity of their understandings.</hi> It is folly in them to draw these words from the true sense, to make them condemn a multitude of things indifferent; as some of them will not put on a clean shirt upon <hi>Sunday,</hi> be<g ref="char:EOLhyphen"/>cause unbelievers do so: some will not call <hi>Munday</hi> or <hi>Tues<g ref="char:EOLhyphen"/>day,</hi> but the first and second day of the week; binding their
 
 
-<pb n="54" facs="tcp:000119_0057_0FA02A855D909698"/>
+<pb n="54" facs="unknown:000119_0057_0FA02A855D909698"/>
 Consciences unto such things: they make themselves ridicu<g ref="char:EOLhyphen"/>lous, because they condemn garments and trimmings, which are not according to their Cut and Rule, by their Taylors, and according to their patern and fashion. We would not here let loose the reins to pomp and vanity, but we say, We are not to condemn him, who is clothed according to his Estate, and according to the custom of the Country; yong people &amp; all according to the received custom, Gentlemen according to their ranks, Merchants, and consequently all men of Estate accord<g ref="char:EOLhyphen"/>ing to their qualities. We condemn, with the Apostle <hi>Peter,</hi> all sumptuousness, and vanities which are unprofitable: not<g ref="char:EOLhyphen"/>withstanding we say, That when Princes and the like carry it magnificently, they are not to be condemned as Pagans; for Christ and his Apostles never gave us Rules for our garments. Let every one hold forth mediocrity, and cut off all superfluity, for the profit of the poor. Meat &amp; drink is not less free to Chri<g ref="char:EOLhyphen"/>stians, then garments, wherefore to forbid them, is to hold forth the Doctrine of Devils,<note place="margin">1 <hi>Tim.</hi> 4.</note> as <hi>Paul</hi> saith. What hurt can be found therein? when God shall by his blessing give a Christian means, that he may make use of good meat and drink; and the faithful receive it with giving of thanks, without gluttony, but with sobri<g ref="char:EOLhyphen"/>ety: wherefore should any say, That this gift of God is a curse? Have not the servants of the Lord, praised the Lord for it? as <hi>David</hi> for the Lords filling of his Cup,<note place="margin">
                      <gap reason="illegible" resp="#PDCC" extent="1 paragraph">
                         <desc>〈1 paragraph〉</desc>
@@ -1104,7 +1105,7 @@ Consciences unto such things: they make themselves ridicu<g ref="char:EOLhyphen"
                      <hi>Rom.</hi> 12:14.</note> Eccles. 3. <hi>Abraham</hi> laughed, <hi>Genes.</hi> 18.10.
 
 
-<pb n="55" facs="tcp:000119_0058_0FA02A88548CECE0"/>
+<pb n="55" facs="unknown:000119_0058_0FA02A88548CECE0"/>
 and yet these men would banish all mirth and laughter. All civil mirth is not to be condemned, nay, rather their hypocri<g ref="char:EOLhyphen"/>tical sighings, and their sad and melancholy looks, are to be censured, whereby they would, as more holy, extol them<g ref="char:EOLhyphen"/>selves above other men: the Kingdome of God consists not in these things; the Scripture no where condemneth honest mirth, but every where hypocrisies. In the time of <hi>Solomon,</hi> Israel held a Feast for fourteen dayes together, because of all the goodness of God vouchsafed to <hi>David</hi> his father. As mourn<g ref="char:EOLhyphen"/>ing proceeds from adversity, so joy from prosperity: which <hi>Jeremiah</hi> plainly holds forth, when he saith,<note place="margin">
                      <hi>Lam.</hi> 5.1.</note> 
                   <hi>The joy of our heart is ceased, and our mirth is turned into mourning,</hi> &amp;c. They condemn also the honest banquets at Weddings, as unlawful and evil; and yet we see the Scripture speaketh often of the voice of the Spouse and espoused: we reade it no where con<g ref="char:EOLhyphen"/>demned, either in the Old or New Testament. Our Lord was not onely at a Wedding being invited, but wrought there his first Miracle, by turning water into wine: he sate down there, and his Disciples.</p>
@@ -1117,7 +1118,7 @@ and yet these men would banish all mirth and laughter. All civil mirth is not to
                      <desc>••</desc>
                   </gap>r, if we should reckon up all their Errours and several Opinions, time would fail us to refute them.</p>
                <p>
-                  <pb n="56" facs="tcp:000119_0059_0FA02A892CDAC5D8"/>There be some who hold re-baptizing so necessary as that without it none can be saved: Nor will they salute any, nor give the hand, nor acknowledge any but such to be their bre<g ref="char:EOLhyphen"/>thren: some hold it not so necessary, and make no scruple to be found with honest people, and to account them as brethren: but their number is but small.</p>
+                  <pb n="56" facs="unknown:000119_0059_0FA02A892CDAC5D8"/>There be some who hold re-baptizing so necessary as that without it none can be saved: Nor will they salute any, nor give the hand, nor acknowledge any but such to be their bre<g ref="char:EOLhyphen"/>thren: some hold it not so necessary, and make no scruple to be found with honest people, and to account them as brethren: but their number is but small.</p>
                <p>Some account Childrens Baptism so bad, as that they will ra<g ref="char:EOLhyphen"/>ther be dismembred, and suffer, then to let their Children be baptized. Others suffer it as an Ordinance, which neither hindreth nor profiteth. Some account themselves holy and pure; these are separated from others, and have all things in common; none saith among them, <hi>This is mine:</hi> and to have any thing in propriety, is accounted a sin. Some have endured great torments, because they would not keep <hi>Sundaies</hi> and Festi<g ref="char:EOLhyphen"/>val dayes, in despite of Antichrist: seeing they were dayes ap<g ref="char:EOLhyphen"/>pointed by Antichrist, they would not hold forth any thing which is like unto him. Others observe these dayes, but it is out of charity.</p>
                <p>Some say they are come so high, as that they cannot sin any more. The most pure of them preach up the Cross, and per<g ref="char:EOLhyphen"/>secution so high, that they seem to make it an Idol, and a new Saviour, putting of it in the place of Christ, for salvation, as the Papists do their works. There be some who have daily some new command from God, to make known unto their bre<g ref="char:EOLhyphen"/>thren and strangers. Some are rapt into an extasie, and have their visage and countenance changed, lying upon the ground certain hours. Some Tremble and Quake for two or three hours together: after that, when they are come unto them<g ref="char:EOLhyphen"/>selves, they prophecie and speak strange things, as if they had been in another world, or as if they had fallen from out of heaven:<note place="margin">
                      <gap reason="illegible" resp="#PDCC" extent="1 paragraph">
@@ -1132,14 +1133,14 @@ and yet these men would banish all mirth and laughter. All civil mirth is not to
                   </gap>e not at all. Some among them fall
 
 
-<pb n="57" facs="tcp:000119_0060_0FA02A8948C5FCA8"/>
+<pb n="57" facs="unknown:000119_0060_0FA02A8948C5FCA8"/>
 down upon their faces, and dream; others do not; but keep themselves to the Letter of the Scripture. Some do nothing else but pray as the Friers do, and say, That they do hinder and keep back, by their prayers, all the mischief which other<g ref="char:EOLhyphen"/>wise would befal the world: these will not that evil should be resisted by any other wayes then by prayers; and in no sort will permit the use of arms.</p>
                <p>
                   <hi>John Denk</hi> did not admit of swearing by way of witness. Some hold not the Trinity of persons in one Essence, saying, That the Son only is a person. Some esteem of the Sacrament of the Lords supper as we do; but they preach it up so highly, as that it will be very hard to finde so much as two fit to com<g ref="char:EOLhyphen"/>municate therein; and therefore some are of opinion not to do it until their death. In some places they banish and excommuni<g ref="char:EOLhyphen"/>cate all those, which will heare any Preacher or Minister preach: they speak all the evil of them that may be, calling them Scribes and Pharisees. Others endure that one may hear, see, and read any thing: but in the mean while the manner of Ministers living pleaseth them not. They have the Cross in such esti<g ref="char:EOLhyphen"/>mation, that they despise and reject all those which are without it, and persecution, and say, That their case is not good<g ref="char:punc">▪</g> for (say they) if they were in the Lords way, they would suffer persecution: some therefore seek the Cross, others are of another opinion. And many times they break fair housholds by separating the parties, when one of the parties is excom<g ref="char:EOLhyphen"/>municated, the party which is not excommunicated must with<g ref="char:EOLhyphen"/>draw from the other party: and their excommunications are for very small matters; yea, when they are married one to another, they make them promise, that if one of them come to be cast out of the Church, that the innocent party shall with<g ref="char:EOLhyphen"/>draw from the nocent; and by this means their marriages are all conditional: when one is thus separated, the party offen<g ref="char:EOLhyphen"/>ded cannot be remarried, if the other party being married be not delivered by the death of his adjoynt: yea, some<g ref="char:EOLhyphen"/>times it falls out, that some who have been excommunicated, are received in again, and finde their party married to another;
 
 
 <pb n="58"
-                      facs="tcp:000119_0061_0FA02A8B6C22DBD0"
+                      facs="unknown:000119_0061_0FA02A8B6C22DBD0"
                       rendition="simple:additions"/>
 and there they must see their wives before their eyes to be unto another man, and they themselves cannot remarry; yea though they have not the gift of continence, they say unto them, as unto the Friers, that they must make themselves Eunuchs for the Kingdom of heaven. Behold how the Devil makes him<g ref="char:EOLhyphen"/>self sport with these men! They are in mortal war with the Franiques: upon this occasion the Mennonists have excom<g ref="char:EOLhyphen"/>municated the Franiques, because they would not approve of these goodly marriages.</p>
                <p>They say also, That when a man hath sinned, though he doth repent, that he is to be excommunicated: and then if he doth persevere therein, he shall be received in again. Behold, the fair stir of Satan, how he playeth the game with these men, which follow not the true light of the Gospel. Our Lord be pleased to give eyes to all the World, that they may take heed of these Sects, which make men turn aside from the way of truth. So be it.</p>
